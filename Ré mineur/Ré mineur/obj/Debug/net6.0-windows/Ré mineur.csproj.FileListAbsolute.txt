@@ -1,0 +1,24 @@
+C:\Users\damie\Desktop\repos2\Ré mineur\Ré mineur\bin\Debug\net6.0-windows\Ré mineur.exe
+C:\Users\damie\Desktop\repos2\Ré mineur\Ré mineur\bin\Debug\net6.0-windows\Ré mineur.deps.json
+C:\Users\damie\Desktop\repos2\Ré mineur\Ré mineur\bin\Debug\net6.0-windows\Ré mineur.runtimeconfig.json
+C:\Users\damie\Desktop\repos2\Ré mineur\Ré mineur\bin\Debug\net6.0-windows\Ré mineur.dll
+C:\Users\damie\Desktop\repos2\Ré mineur\Ré mineur\bin\Debug\net6.0-windows\Ré mineur.pdb
+C:\Users\damie\Desktop\repos2\Ré mineur\Ré mineur\obj\Debug\net6.0-windows\Ré mineur.csproj.AssemblyReference.cache
+C:\Users\damie\Desktop\repos2\Ré mineur\Ré mineur\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\damie\Desktop\repos2\Ré mineur\Ré mineur\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\damie\Desktop\repos2\Ré mineur\Ré mineur\obj\Debug\net6.0-windows\Ré mineur_MarkupCompile.cache
+C:\Users\damie\Desktop\repos2\Ré mineur\Ré mineur\obj\Debug\net6.0-windows\Ré mineur_MarkupCompile.lref
+C:\Users\damie\Desktop\repos2\Ré mineur\Ré mineur\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\damie\Desktop\repos2\Ré mineur\Ré mineur\obj\Debug\net6.0-windows\Ré mineur.g.resources
+C:\Users\damie\Desktop\repos2\Ré mineur\Ré mineur\obj\Debug\net6.0-windows\Ré mineur.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\damie\Desktop\repos2\Ré mineur\Ré mineur\obj\Debug\net6.0-windows\Ré mineur.AssemblyInfoInputs.cache
+C:\Users\damie\Desktop\repos2\Ré mineur\Ré mineur\obj\Debug\net6.0-windows\Ré mineur.AssemblyInfo.cs
+C:\Users\damie\Desktop\repos2\Ré mineur\Ré mineur\obj\Debug\net6.0-windows\Ré mineur.csproj.CoreCompileInputs.cache
+C:\Users\damie\Desktop\repos2\Ré mineur\Ré mineur\obj\Debug\net6.0-windows\Ré mineur.dll
+C:\Users\damie\Desktop\repos2\Ré mineur\Ré mineur\obj\Debug\net6.0-windows\refint\Ré mineur.dll
+C:\Users\damie\Desktop\repos2\Ré mineur\Ré mineur\obj\Debug\net6.0-windows\Ré mineur.pdb
+C:\Users\damie\Desktop\repos2\Ré mineur\Ré mineur\obj\Debug\net6.0-windows\Ré mineur.genruntimeconfig.cache
+C:\Users\damie\Desktop\repos2\Ré mineur\Ré mineur\obj\Debug\net6.0-windows\ref\Ré mineur.dll
+C:\Users\damie\Desktop\repos2\Ré mineur\Ré mineur\bin\Debug\net6.0-windows\Assets\TileEmpty.png
+C:\Users\damie\Desktop\repos2\Ré mineur\Ré mineur\bin\Debug\net6.0-windows\Assets\TileFlag.png
+C:\Users\damie\Desktop\repos2\Ré mineur\Ré mineur\bin\Debug\net6.0-windows\Assets\TileUnknown.png
