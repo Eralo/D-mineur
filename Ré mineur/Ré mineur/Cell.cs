@@ -25,24 +25,30 @@ namespace Ré_mineur {
                         return "Pack://siteoforigin:,,,/Assets/TileEmpty.png";
                     case CellState.Flagged:
                         return "Pack://siteoforigin:,,,/Assets/TileFlag.png";
+                    case CellState.Bomb:
+                        return "Pack://siteoforigin:,,,/Assets/TileBomb.png";
                     default:
                         return "Pack://siteoforigin:,,,/Assets/TileUnknown.png";
                 }
             }
         }
 
-        public bool isBomb {get; private set;}
-
         public Cell(CellState state = CellState.Hidden, int bombNumber = 0) {
             this.cellState = state;
             this.bombNumber = bombNumber;
-            this.isBomb = false;
         }
+
+        private bool isBomb = false;
 
         public void Reveal() {
 
             if (this.cellState == CellState.Flagged) return; //safety if flagged tile
 
+            if (this.bombNumber == -1) //bomb state
+            {
+                this.cellState = CellState.Bomb;
+                return;
+            }
             this.cellState = CellState.Revealed;
         }
 
@@ -63,8 +69,13 @@ namespace Ré_mineur {
                 this.cellState = CellState.Hidden;
             }
         }
+
         public bool IsRevealed() {
             return this.cellState == CellState.Revealed;
+        }
+        public bool IsRevealable() {
+            if (this.cellState == CellState.Revealed ||this.cellState == CellState.Flagged) return false;
+            return true;
         }
         public bool IsBomb() {
             return this.isBomb;

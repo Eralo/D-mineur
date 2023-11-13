@@ -56,13 +56,14 @@ namespace Ré_mineur {
 
                     Grid.SetRow(cellImage, i);
                     Grid.SetColumn(cellImage, j);
+
                     gameGrid.Children.Add(cellImage);
                 }
             }
         }
 
         public void UpdateCell(int row, int col) {
-                //change sprite ------------------------------
+            //change sprite ------------------------------
             Cell currentCell = gameBoard[row, col];
             cellImages[row, col].Source = new BitmapImage(new Uri(currentCell.CurrentImageUri));
 
@@ -94,7 +95,7 @@ namespace Ré_mineur {
             }
 
             //If cell is already revealed or a bomb, return
-            if (gameBoard[row, col].IsRevealed()) {
+            if (!gameBoard[row, col].IsRevealable()) {
                 return;
             }
 

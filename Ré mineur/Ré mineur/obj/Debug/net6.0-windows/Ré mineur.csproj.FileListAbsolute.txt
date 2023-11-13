@@ -22,3 +22,28 @@ C:\Users\damie\Desktop\repos2\Ré mineur\Ré mineur\obj\Debug\net6.0-windows\ref
 C:\Users\damie\Desktop\repos2\Ré mineur\Ré mineur\bin\Debug\net6.0-windows\Assets\TileEmpty.png
 C:\Users\damie\Desktop\repos2\Ré mineur\Ré mineur\bin\Debug\net6.0-windows\Assets\TileFlag.png
 C:\Users\damie\Desktop\repos2\Ré mineur\Ré mineur\bin\Debug\net6.0-windows\Assets\TileUnknown.png
+E:\perso\repo PRIVE\D-mineur\Ré mineur\Ré mineur\bin\Debug\net6.0-windows\Assets\TileEmpty.png
+E:\perso\repo PRIVE\D-mineur\Ré mineur\Ré mineur\bin\Debug\net6.0-windows\Assets\TileFlag.png
+E:\perso\repo PRIVE\D-mineur\Ré mineur\Ré mineur\bin\Debug\net6.0-windows\Assets\TileUnknown.png
+E:\perso\repo PRIVE\D-mineur\Ré mineur\Ré mineur\bin\Debug\net6.0-windows\Ré mineur.exe
+E:\perso\repo PRIVE\D-mineur\Ré mineur\Ré mineur\bin\Debug\net6.0-windows\Ré mineur.deps.json
+E:\perso\repo PRIVE\D-mineur\Ré mineur\Ré mineur\bin\Debug\net6.0-windows\Ré mineur.runtimeconfig.json
+E:\perso\repo PRIVE\D-mineur\Ré mineur\Ré mineur\bin\Debug\net6.0-windows\Ré mineur.dll
+E:\perso\repo PRIVE\D-mineur\Ré mineur\Ré mineur\bin\Debug\net6.0-windows\Ré mineur.pdb
+E:\perso\repo PRIVE\D-mineur\Ré mineur\Ré mineur\obj\Debug\net6.0-windows\Ré mineur.csproj.AssemblyReference.cache
+E:\perso\repo PRIVE\D-mineur\Ré mineur\Ré mineur\obj\Debug\net6.0-windows\MainWindow.g.cs
+E:\perso\repo PRIVE\D-mineur\Ré mineur\Ré mineur\obj\Debug\net6.0-windows\App.g.cs
+E:\perso\repo PRIVE\D-mineur\Ré mineur\Ré mineur\obj\Debug\net6.0-windows\Ré mineur_MarkupCompile.cache
+E:\perso\repo PRIVE\D-mineur\Ré mineur\Ré mineur\obj\Debug\net6.0-windows\Ré mineur_MarkupCompile.lref
+E:\perso\repo PRIVE\D-mineur\Ré mineur\Ré mineur\obj\Debug\net6.0-windows\MainWindow.baml
+E:\perso\repo PRIVE\D-mineur\Ré mineur\Ré mineur\obj\Debug\net6.0-windows\Ré mineur.g.resources
+E:\perso\repo PRIVE\D-mineur\Ré mineur\Ré mineur\obj\Debug\net6.0-windows\Ré mineur.GeneratedMSBuildEditorConfig.editorconfig
+E:\perso\repo PRIVE\D-mineur\Ré mineur\Ré mineur\obj\Debug\net6.0-windows\Ré mineur.AssemblyInfoInputs.cache
+E:\perso\repo PRIVE\D-mineur\Ré mineur\Ré mineur\obj\Debug\net6.0-windows\Ré mineur.AssemblyInfo.cs
+E:\perso\repo PRIVE\D-mineur\Ré mineur\Ré mineur\obj\Debug\net6.0-windows\Ré mineur.csproj.CoreCompileInputs.cache
+E:\perso\repo PRIVE\D-mineur\Ré mineur\Ré mineur\obj\Debug\net6.0-windows\Ré mineur.dll
+E:\perso\repo PRIVE\D-mineur\Ré mineur\Ré mineur\obj\Debug\net6.0-windows\refint\Ré mineur.dll
+E:\perso\repo PRIVE\D-mineur\Ré mineur\Ré mineur\obj\Debug\net6.0-windows\Ré mineur.pdb
+E:\perso\repo PRIVE\D-mineur\Ré mineur\Ré mineur\obj\Debug\net6.0-windows\Ré mineur.genruntimeconfig.cache
+E:\perso\repo PRIVE\D-mineur\Ré mineur\Ré mineur\obj\Debug\net6.0-windows\ref\Ré mineur.dll
+E:\perso\repo PRIVE\D-mineur\Ré mineur\Ré mineur\bin\Debug\net6.0-windows\Assets\TileBomb.png

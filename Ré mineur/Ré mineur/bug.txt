@@ -1,0 +1,3 @@
+mettre en place un safety net au début de la partie: dpélacer la bombe si appuyé dessus
+
+le texte scale avec la résolution de l'image cachée :/
